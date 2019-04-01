@@ -16,4 +16,19 @@ If you find any of this useful, please consider citing our paper as
 ```
 
 
-# Datasets
+## Datasets
+We provide two new datasets, extending the verb disambiguation dataset of Grefenstette & Sadrzadeh 2011 and the transitive sentence similarity dataset of Kartsaklis & Sadrzadeh 2013.
+
+### ELLDIS
+
+### ELLSIM
+
+
+## Models
+
+We provide four trained vector spaces, following several popular embedding methods.
+
+
+## Code
+
+We provide some code for evaluating the vector space models on the new datasets.

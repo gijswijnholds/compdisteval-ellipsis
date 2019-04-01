@@ -26,9 +26,13 @@ We provide two new datasets, extending the verb disambiguation dataset of Grefen
 
 ## Models
 
-We provide four trained vector spaces, following several popular embedding methods.
+We provide four trained vector spaces, following several popular embedding methods. For each of the vector spaces, we also provide a separate *tensor space*, containing learned matrices for 85 verbs that occur in the evaluation datasets.
 
+word2vec: [Vectors][word2vec_vectors] [Tensors][word2vec_tensors]
 
 ## Code
 
 We provide some code for evaluating the vector space models on the new datasets.
+
+[word2vec_vectors]: https://ln.sync.com/dl/9189b10d0/v4p9qtvg-6a4zhhiv-dt4am2cq-vv32h7j8
+[word2vec_tensors]: https://ln.sync.com/dl/83dce9040/wap786ba-w55pxysy-tsebqz3u-isf5bisu

@@ -45,12 +45,12 @@ We provide four trained vector spaces, following several popular embedding metho
 
 We provide some code for evaluating the vector space models on the new datasets.
 
-[count_vectors]: https://ln.sync.com/dl/eaccaea00/4sqgam5y-dj8fgyuv-8fhxien5-jct4htqi
-[count_tensors]: https://ln.sync.com/dl/4518d95f0/j8sq4n8d-mmi4iiin-2stkr92r-b7my3s6m
-[word2vec_vectors]: https://ln.sync.com/dl/9189b10d0/v4p9qtvg-6a4zhhiv-dt4am2cq-vv32h7j8
-[word2vec_tensors]: https://ln.sync.com/dl/83dce9040/wap786ba-w55pxysy-tsebqz3u-isf5bisu
-[glove_vectors]: https://ln.sync.com/dl/c66e50cc0/bf7nnmm3-rwde43an-gw6q8raq-vfdr6jy6
-[glove_tensors]: https://ln.sync.com/dl/2b21bc080/3u4kby9s-z8uks3ns-m4hfg5pu-jm8edb5u
-[fasttext_vectors]: https://ln.sync.com/dl/2ef558dc0/2mdzq2er-kuvf8yk8-f7zbgsxx-ymmbvx38
-[fasttext_tensors]: https://ln.sync.com/dl/44be89600/v45je9ek-nzfqzahx-uvyjdvwb-df82qkmq
+[count_vectors]: https://ln.sync.com/dl/b533b03c0/ertje7d2-vq66ivey-fevjp8g8-asai3pz7
+[count_tensors]: https://ln.sync.com/dl/a5e144f80/86cjd786-6mu265q8-hqsvr5ms-t9kprjp4
+[word2vec_vectors]: https://ln.sync.com/dl/e93a0a060/xm5njmyd-hqvbgw5d-cdmviv9q-6ye8yrsb
+[word2vec_tensors]: https://ln.sync.com/dl/88a20c1c0/uh9friau-7tvb4mmu-nukuty3f-yzw92yuh
+[glove_vectors]: https://ln.sync.com/dl/a6f296b30/2z7yvyvt-63m7qyi2-8zd4j6zc-xygvr2ke
+[glove_tensors]: https://ln.sync.com/dl/524f8a0c0/5s4rruv7-iyg2fu7e-vvjgk2fy-d2wha4ja
+[fasttext_vectors]: https://ln.sync.com/dl/54a3bfb80/yn7hfrxn-nxkue223-273ynmfq-ma6j4zy4
+[fasttext_tensors]: https://ln.sync.com/dl/288e9e450/vfpxzacp-2awa4ikp-6cu3f6vy-a75jvd9p
 

@@ -46,7 +46,7 @@ We provide four trained vector spaces, following several popular embedding metho
 We provide some code for evaluating the vector space models on the new datasets.
 
 [count_vectors]: https://ln.sync.com/dl/eaccaea00/4sqgam5y-dj8fgyuv-8fhxien5-jct4htqi
-[count_tensors]: https://ln.sync.com/dl/eaccaea00/4sqgam5y-dj8fgyuv-8fhxien5-jct4htqi
+[count_tensors]: https://ln.sync.com/dl/4518d95f0/j8sq4n8d-mmi4iiin-2stkr92r-b7my3s6m
 [word2vec_vectors]: https://ln.sync.com/dl/9189b10d0/v4p9qtvg-6a4zhhiv-dt4am2cq-vv32h7j8
 [word2vec_tensors]: https://ln.sync.com/dl/83dce9040/wap786ba-w55pxysy-tsebqz3u-isf5bisu
 [glove_vectors]: https://ln.sync.com/dl/c66e50cc0/bf7nnmm3-rwde43an-gw6q8raq-vfdr6jy6

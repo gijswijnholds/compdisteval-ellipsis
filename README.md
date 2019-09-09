@@ -43,7 +43,8 @@ We provide four trained vector spaces, following several popular embedding metho
 
 ## Code
 
-We provide some code for evaluating the vector space models on the new datasets.
+We provide some code for evaluating the vector space models on the new datasets. This can be found in my main code repository for evaluation of compositional distributional semantics [here](https://github.com/gijswijnholds/compdisteval)
+
 
 [count_vectors]: https://ln.sync.com/dl/b533b03c0/ertje7d2-vq66ivey-fevjp8g8-asai3pz7
 [count_tensors]: https://ln.sync.com/dl/a5e144f80/86cjd786-6mu265q8-hqsvr5ms-t9kprjp4
